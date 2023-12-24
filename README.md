@@ -1,4 +1,4 @@
-# Quick-Gig-Laravel-Website-
+# Quick-Gig-Laravel-Website
 Install laravel using : composer global require "laravel/installer=~1.1"
 and download the composer from browser
 Just download the Zip file and unzip in the xampp/htdocs folder
